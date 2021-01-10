@@ -1,0 +1,37 @@
+.main_body{
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 20px 20px;
+    padding: 15px 40px;
+    background-color: #ffffff;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.2);
+    text-align : center ;
+    
+  }
+  
+  .main_body_title{
+    text-align: initial;
+  }
+
+  .main_body_search{
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 15px 20px;
+    padding: 15px 40px;
+    background-color: #f6f8f9;
+    border-radius: 10px;
+  }
+  
+  .main_body_search--button{
+      margin-left: 30px;
+  }
+
+  .calendar_modal{
+      z-index: 2;
+  }
+
+  .calendar_body{
+      z-index: 1;
+  }

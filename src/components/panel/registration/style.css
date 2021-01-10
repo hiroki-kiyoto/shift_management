@@ -1,0 +1,38 @@
+.panel {
+    background-color: white;
+    width: 50%;
+    height: 400px;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 110px auto;
+    padding: 15px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.2);
+    text-align : center ;
+  }
+  
+
+  .panel_item {
+    text-align: initial;
+  }
+
+  .input_text {
+  border: none;
+  background-color: #f3f3f3;
+  padding: 16px;
+  border-radius: 5px;
+  width: 95%;
+  line-height: 1.5em;
+  }
+
+  .input_submit {
+    margin-top: 30px;
+    background-color: rgb(66, 163, 247);
+    color: white;
+    border-radius: 25px;
+    border-style: none;
+    padding: 16px 40px;
+    font-size: 15px;
+    width: 30%;
+  }
